@@ -1,0 +1,105 @@
+can MD O
+i VB O
+ask VB O
+for IN O
+detail NN O
+about IN O
+payment NN B-TOPIC
+. . O
+
+can MD O
+i VB O
+ask VB O
+for IN O
+information NN O
+about IN O
+payment NN B-TOPIC
+. . O
+
+can MD O
+i VB O
+ask VB O
+for IN O
+information NN O
+about IN O
+shipping NN B-TOPIC
+. . O
+
+i NN O
+want VBP O
+to TO O
+know VB O
+detail NN O
+about IN O
+shipping NN B-TOPIC
+. . O
+
+can MD O
+i VB O
+ask VB O
+what WP O
+is VBZ O
+the DT B-TOPIC
+work NN I-TOPIC
+hours NNS I-TOPIC
+. . O
+
+can MD O
+i VB O
+ask RB O
+if IN O
+my PRP$ O
+item NN O
+that WDT O
+have VBP O
+local JJ O
+track NN O
+number NN O
+5465446564546 CD B-ID
+arrive JJ B-TOPIC
+at IN I-TOPIC
+warehouse NN I-TOPIC
+. . O
+
+can MD O
+i VB O
+ask RB O
+if IN O
+my PRP$ O
+package NN O
+44654465446 CD B-ID
+is VBZ O
+arrived VBN B-TOPIC
+at IN I-TOPIC
+warehouse NN I-TOPIC
+or CC O
+not RB O
+. . O
+
+i NN O
+want VBP O
+to TO O
+know VB O
+information NN O
+about IN O
+the DT B-TOPIC
+promotion NN I-TOPIC
+. . O
+
+can MD O
+i VB O
+ask VB O
+what WP O
+is VBZ O
+the DT B-TOPIC
+promotion NN I-TOPIC
+right RB O
+now RB O
+. . O
+
+what WP O
+is VBZ O
+the DT B-TOPIC
+promotion NN I-TOPIC
+currently RB O
+. . O

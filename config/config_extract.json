@@ -1,0 +1,5 @@
+{
+    "delay_model_path":"./extract-data/model/delay.model",
+    "req_model_path":"./extract-data/model/req.model",
+    "askinfo_model_path":"./extract-data/model/askinfo.model"
+}

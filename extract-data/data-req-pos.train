@@ -1,0 +1,165 @@
+i NN O
+want VBP O
+to TO O
+remove VB B-ACT
+bill NN I-ACT
+or CC I-ACT
+reciept NN I-ACT
+for IN O
+package NN O
+46548791798 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+remove VB B-ACT
+bill NN I-ACT
+or CC I-ACT
+reciept NN I-ACT
+for IN O
+package NN O
+71987177494 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+remove VB B-ACT
+bill NN I-ACT
+for IN O
+package NN O
+71987177494 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+cancel VB B-ACT
+the DT O
+order NN O
+71987177494 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+cancel VB B-ACT
+the DT O
+package NN O
+71987177494 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+cancel VB B-ACT
+package NN O
+71987177494 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+cancel VB B-ACT
+package NN O
+46546544654 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+cancel VB B-ACT
+order NN O
+787894544 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+cancel VB B-ACT
+order NN O
+789797987 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+change VB B-ACT
+the DT I-ACT
+box NN I-ACT
+of IN O
+package NN O
+787894544 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+change VB B-ACT
+box NN I-ACT
+of IN O
+package NN O
+787894544 CD B-ID
+. . O
+
+can MD O
+i VB O
+request NN O
+for IN O
+changing VBG B-ACT
+box NN I-ACT
+of IN O
+package NN O
+787894544 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+see VB B-ACT
+the DT I-ACT
+picture NN I-ACT
+of IN O
+package NN O
+787894544 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+see VB B-ACT
+picture NN I-ACT
+of IN O
+package NN O
+787894544 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+see VB B-ACT
+image NN I-ACT
+of IN O
+package NN O
+787894544 CD B-ID
+. . O
+
+i NN O
+want VBP O
+to TO O
+look VB B-ACT
+image NN I-ACT
+of IN O
+package NN O
+7897945456 CD B-ID
+. . O
+
+can MD O
+i VB O
+see VBP B-ACT
+image NN I-ACT
+of IN O
+package NN O
+787894544 CD B-ID
+. . O

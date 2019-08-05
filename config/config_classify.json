@@ -1,0 +1,4 @@
+{
+    "matrix_model_path":"./classify-data/model/matrix.model",
+    "classify_model_path":"./classify-data/model/classifier.model"
+}
